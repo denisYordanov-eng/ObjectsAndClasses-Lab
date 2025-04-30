@@ -33,7 +33,7 @@ namespace _04_DistanceBetweenPoints
             double result1 = CalculateDistance1(pointsValue1[0], pointsValue2[0]);
 
             p.Y = pointsValue2[0];
-            p.Y = pointsValue2[0];
+            p.Y = pointsValue2[1];
             double result2 = CalculateDistance2(pointsValue1[1], pointsValue2[1]);
 
             double finalResult = CalculateTotalResult(result1, result2);
