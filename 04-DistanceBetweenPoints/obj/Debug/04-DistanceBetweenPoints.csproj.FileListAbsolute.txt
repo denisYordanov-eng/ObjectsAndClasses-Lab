@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\04-DistanceBetweenPoints\bin\Debug\04-DistanceBetweenPoints.exe.config
+C:\Users\Laptop\Desktop\C#\04-DistanceBetweenPoints\bin\Debug\04-DistanceBetweenPoints.exe
+C:\Users\Laptop\Desktop\C#\04-DistanceBetweenPoints\bin\Debug\04-DistanceBetweenPoints.pdb
+C:\Users\Laptop\Desktop\C#\04-DistanceBetweenPoints\obj\Debug\04-DistanceBetweenPoints.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\04-DistanceBetweenPoints\obj\Debug\04-DistanceBetweenPoints.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\04-DistanceBetweenPoints\obj\Debug\04-DistanceBetweenPoints.exe
+C:\Users\Laptop\Desktop\C#\04-DistanceBetweenPoints\obj\Debug\04-DistanceBetweenPoints.pdb
