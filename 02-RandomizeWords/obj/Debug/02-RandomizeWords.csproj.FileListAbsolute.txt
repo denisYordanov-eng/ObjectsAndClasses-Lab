@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\02-RandomizeWords\bin\Debug\02-RandomizeWords.exe.config
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\02-RandomizeWords\bin\Debug\02-RandomizeWords.exe
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\02-RandomizeWords\bin\Debug\02-RandomizeWords.pdb
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\02-RandomizeWords\obj\Debug\02-RandomizeWords.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\02-RandomizeWords\obj\Debug\02-RandomizeWords.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\02-RandomizeWords\obj\Debug\02-RandomizeWords.exe
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\02-RandomizeWords\obj\Debug\02-RandomizeWords.pdb
