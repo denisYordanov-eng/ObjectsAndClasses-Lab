@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\03-BigFactorial\bin\Debug\03-BigFactorial.exe.config
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\03-BigFactorial\bin\Debug\03-BigFactorial.exe
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\03-BigFactorial\bin\Debug\03-BigFactorial.pdb
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\03-BigFactorial\obj\Debug\03-BigFactorial.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\03-BigFactorial\obj\Debug\03-BigFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\03-BigFactorial\obj\Debug\03-BigFactorial.exe
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\03-BigFactorial\obj\Debug\03-BigFactorial.pdb
