@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\06-RectanglePosition\bin\Debug\06-RectanglePosition.exe.config
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\06-RectanglePosition\bin\Debug\06-RectanglePosition.exe
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\06-RectanglePosition\bin\Debug\06-RectanglePosition.pdb
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\06-RectanglePosition\obj\Debug\06-RectanglePosition.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\06-RectanglePosition\obj\Debug\06-RectanglePosition.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\06-RectanglePosition\obj\Debug\06-RectanglePosition.exe
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\06-RectanglePosition\obj\Debug\06-RectanglePosition.pdb
