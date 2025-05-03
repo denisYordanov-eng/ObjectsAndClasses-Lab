@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\05-ClosestTwoPoints\bin\Debug\05-ClosestTwoPoints.exe.config
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\05-ClosestTwoPoints\bin\Debug\05-ClosestTwoPoints.exe
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\05-ClosestTwoPoints\bin\Debug\05-ClosestTwoPoints.pdb
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\05-ClosestTwoPoints\obj\Debug\05-ClosestTwoPoints.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\05-ClosestTwoPoints\obj\Debug\05-ClosestTwoPoints.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\05-ClosestTwoPoints\obj\Debug\05-ClosestTwoPoints.exe
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\05-ClosestTwoPoints\obj\Debug\05-ClosestTwoPoints.pdb
