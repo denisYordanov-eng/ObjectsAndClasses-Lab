@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\04-DistanceBetweenPointsDiffrentWay\bin\Debug\04-DistanceBetweenPointsDiffrentWay.exe.config
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\04-DistanceBetweenPointsDiffrentWay\bin\Debug\04-DistanceBetweenPointsDiffrentWay.exe
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\04-DistanceBetweenPointsDiffrentWay\bin\Debug\04-DistanceBetweenPointsDiffrentWay.pdb
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\04-DistanceBetweenPointsDiffrentWay\obj\Debug\04-DistanceBetweenPointsDiffrentWay.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\04-DistanceBetweenPointsDiffrentWay\obj\Debug\04-DistanceBetweenPointsDiffrentWay.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\04-DistanceBetweenPointsDiffrentWay\obj\Debug\04-DistanceBetweenPointsDiffrentWay.exe
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\04-DistanceBetweenPointsDiffrentWay\obj\Debug\04-DistanceBetweenPointsDiffrentWay.pdb
