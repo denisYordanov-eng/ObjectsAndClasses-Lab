@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\StudentsFilterCity\bin\Debug\StudentsFilterCity.exe.config
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\StudentsFilterCity\bin\Debug\StudentsFilterCity.exe
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\StudentsFilterCity\bin\Debug\StudentsFilterCity.pdb
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\StudentsFilterCity\obj\Debug\StudentsFilterCity.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\StudentsFilterCity\obj\Debug\StudentsFilterCity.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\StudentsFilterCity\obj\Debug\StudentsFilterCity.exe
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\StudentsFilterCity\obj\Debug\StudentsFilterCity.pdb
